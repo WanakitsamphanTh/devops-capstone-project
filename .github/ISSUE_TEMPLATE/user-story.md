@@ -1,5 +1,5 @@
 ---
-name: User story template
+name: User story 
 about: Describe user story in gherkin syntax
 title: ''
 labels: ''
